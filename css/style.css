@@ -1,0 +1,41 @@
+.container {
+    width: 960px;
+    margin:auto;
+}
+
+h1 {
+    /* margin: 10px; */
+    position: absolute;
+    font-weight: bold;
+    font-size: 24px
+}
+
+.global-nav {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.global-nav .nav-item {
+    display: inline-block;
+    margin: 0 10px;
+    float: right;
+}
+
+.heading {
+    background-image: url('../img/main-vsual-nontitle.png');
+    height: 647px;
+    width: 100%;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+.heading .container {
+    text-align: center;
+    padding: 100px 0px;
+}
+
+header {
+    height: 48px;
+}
